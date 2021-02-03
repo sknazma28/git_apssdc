@@ -17,5 +17,5 @@ this is horizantal line
 - coffee
 - milk
 
-how to open hyperlinks[apssdc](https://www.apssdc.in)
-[ciet colleage](https://www.cahalapathiengg.ac.in/)
+how to open hyperlinks[apssdc] (https://www.apssdc.in)
+[ciet colleage] (https://www.cahalapathiengg.ac.in/)
